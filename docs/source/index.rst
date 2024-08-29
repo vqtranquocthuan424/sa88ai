@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+SA88 - sa88.ai - Sân chơi đỉnh của chóp, trả thưởng siêu khủng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`SA88 <https://sa88.ai/>`_ là thiên đường cá cược hàng đầu châu Á mang đến cho anh em nhiều trò chơi hấp dẫn Đến với thương hiệu bạn sẽ nhận được tỷ lệ thưởng cao chót vót.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 20 Đ. Cộng Hòa, Phường 12, Tân Bình, Hồ Chí Minh. 
 
-   This project is under active development.
+Phone: 00857472584. 
 
-Contents
---------
+Email: info@sa88.ai. 
 
-.. toctree::
+Website: https://sa88.ai/
 
-   usage
-   api
+#sa88 #nhacaisa88 #casinotructuyensa88 #sa88.ai 
